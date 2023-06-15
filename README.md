@@ -118,7 +118,7 @@ By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatic
 - **Learning Hierarchical Relationships for Object-goal Navigation** <br>
   *Yiding Qiu, Anwesan Pal, Henrik I. Christensen* <br>
   CoRL, 2020. [[Paper]](https://arxiv.org/abs/2003.06749) [[Code]](https://github.com/cassieqiuyd/MJOLNIR)
-- **Deep Reinforcement Learning for Visual Semantic Navigation with Memory** <br>Iury Batista de Andrade Santos, Roseli A. F. Romero <br>Latin American Robotics Symposium (LARS), 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9307029)
+- **Deep Reinforcement Learning for Visual Semantic Navigation with Memory** <br>*Iury Batista de Andrade Santos, Roseli A. F. Romero* <br>Latin American Robotics Symposium (LARS), 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9307029)
 - **Visual Navigation via Reinforcement Learning and Relational Reasoning** <br>*Kang Zhou, Chi Guo, Huyin Zhang* <br>SmartWorld, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9604417)
 - **Object Goal Visual Navigation using Semantic Spatial Relationships** <br>*Jingwen Guo, Zhisheng Lu, Ti Wang, Weibo Huang, and Hong Liu* <br>First CAAI International Conference on Artificial Intelligence (CICAI), 2021. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93046-2_7)
 - **Hierarchical Object-to-Zone Graph for Object Navigation** <br>
@@ -146,11 +146,11 @@ By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatic
 ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9711292)
 * **Auxiliary Tasks and Exploration Enable ObjectGoal Navigation** <br>
 *Peter Karkus, Shaojun Cai, David Hsu* <br>
-ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](https://github.com/Xiaoming-Zhao/PointNav-VO) [[Website]](https://joel99.github.io/objectnav/)
+ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](https://github.com/joel99/objectnav) [[Website]](https://joel99.github.io/objectnav/)
 * **ForeSI: Success-Aware Visual Navigation Agent**<br>*Mahdi Kazemi Moghaddam, Ehsan Abbasnejad, Qi Wu, Javen Qinfeng shi, Anton Van Den Hengel* <br>WACV, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9707055)
-* **Habitat-Web: Learning Embodied Object-Search Strategies**<br>*Ram Ramrakhya, Eric Undersander, Dhruv Batra, Abhishek Das* <br>CVPR, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9880429) [[Website]](https://ram81.github.io/projects/habitat-web) [[Code]](https://github.com/Ram81/habitat-web)
+* **Habitat-Web: Learning Embodied Object-Search Strategies from Human Demonstrations at Scale** <br>*Ram Ramrakhya, Eric Undersander, Dhruv Batra, Abhishek Das* <br>CVPR, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9880429) [[Website]](https://ram81.github.io/projects/habitat-web) [[Code]](https://github.com/Ram81/habitat-web)
 * **A General Purpose Supervisory Signal for Embodied Agents**<br>*Kunal Pratap Singh, Jordi Salvador, Luca Weihs, Aniruddha Kembhavi* <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2212.01186#:~:text=Training%20effective%20embodied%20AI%20agents,sensors%20for%20depth%20and%20localization.)
-* **PIRLNav: Pretraining with Imitation and RL Finetuning for OBJECTNAV**<br>*Ram Ramrakhya, Dhruv Batra, Erik Wijmans, Abhishek Das* <br>arXiv, 2023. [[Paper]](https://arxiv.org/abs/2301.07302)
+* **PIRLNav: Pretraining with Imitation and RL Finetuning for OBJECTNAV**<br>*Ram Ramrakhya, Dhruv Batra, Erik Wijmans, Abhishek Das* <br>arXiv, 2023. [[Paper]](https://arxiv.org/abs/2301.07302) [[Website]](https://ram81.github.io/projects/pirlnav)
 * **Search for or Navigate to Dual Adaptive Thinking for Object Navigation**<br>*Ronghao Dang, Liuyi Wang, Zongtao He, Shuai Su, Chengju Liu, Qijun Chen* <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2208.00553)
 
 
