@@ -3,8 +3,6 @@ Inspired by the [awesome-embodied-vision](https://github.com/ChanganVR/awesome-e
 
 By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatics at Cardiff University. If you see papers missing from the list, please send me an email.
 
-set two account
-
 ## Table of Content
 
 * [Survey](#survey)
@@ -104,7 +102,7 @@ set two account
 
 ### <span id='end-to-end'>End-to-end Methods</span>
 
-#### Visual Representations
+#### Visual Representation
 
 - **Visual Representations for Semantic Target Driven Navigation** <br>
   *Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson* <br>
@@ -228,16 +226,10 @@ ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](htt
 
 ## <span id='misc'>MISC</span>
 * **Embodied AI Workshop**<br>CVPR, 2020/2021/2022/2023. [[Website]](https://embodied-ai.org/#overview)
-* **Visual Learning and Embodied Agents in Simulation Environments Workshop** <br>
-  ECCV, 2018. [[Website]](https://eccv18-vlease.github.io/)
 * **iGibson Challenge 2022** <br>
   CVPR, 2022. [[Website]](http://svl.stanford.edu/igibson/challenge.html)
-* **Embodied Vision, Actions & Language Workshop** <br>
-  ECCV, 2020. [[Website]](https://askforalfred.com/EVAL/)
 * **Closing the Reality Gap in Sim2Real Transfer for Robotics** <br>
   RSS, 2022. [[Website]](https://sim2real.github.io/?fbclid=IwAR0fyyc_k8AmmYYRHbJJtjqGonAn1TUhUPWEdEpwpMbuwIkTgxmC13TJjG4)
-* **CSAIL Embodied Intelligence Seminar** <br>
-  [[Website]](https://ei.csail.mit.edu/seminars.html)
 * **Robustness of Embodied Point Navigation Agents**<br>ECCV 2022 Workshop, [[Website]](https://m43.github.io/projects/embodied-ai-robustness/)
 * **PyRobot: An Open-source Robotics Framework for Research and Benchmarking** <br>
   *Adithya Murali\*, Tao Chen\*, Kalyan Vasudev Alwala\*, Dhiraj Gandhi\*, Lerrel Pinto, Saurabh Gupta, Abhinav Gupta* <br>
