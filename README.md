@@ -22,15 +22,15 @@ By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatic
   *Peter Anderson, Angel Chang, Devendra Singh Chaplot, Alexey Dosovitskiy, Saurabh Gupta, Vladlen Koltun, Jana Kosecka, Jitendra Malik, Roozbeh Mottaghi, Manolis Savva, Amir R. Zamir* <br>
   arXiv, 2018. [[Paper]](https://arxiv.org/abs/1807.06757)
 
-* **ObjectNav Revisited On Evaluation of Embodied Agents Navigating to Objects**<br>*Dhruv Batra, Aaron Gokaslan, Ani Kembhavi, Oleksandr Maksymets, Roozbeh Mottaghi1, Manolis Savva, Alexander Toshev, Erik Wijmans*<br> arXiv, 2020.[[Paper]](https://arxiv.org/abs/2006.13171)
+* **ObjectNav Revisited On Evaluation of Embodied Agents Navigating to Objects**<br>*Dhruv Batra, Aaron Gokaslan, Ani Kembhavi, Oleksandr Maksymets, Roozbeh Mottaghi1, Manolis Savva, Alexander Toshev, Erik Wijmans*<br> arXiv, 2020. [[Paper]](https://arxiv.org/abs/2006.13171)
 
-* **From Seeing to Moving: A Survey on Learning for Visual Indoor Navigation**<br>*Xin Ye and Yezhou Yang*<br>arXiv, 2020.[[Paper]](https://arxiv.org/pdf/2002.11310.pdf)
+* **From Seeing to Moving: A Survey on Learning for Visual Indoor Navigation**<br>*Xin Ye and Yezhou Yang*<br>arXiv, 2020. [[Paper]](https://arxiv.org/pdf/2002.11310.pdf)
 
-* **Deep Learning for Embodied Visual Navigation Research: A survey**<br>*Fengda Zhu, Yi Zhu, Vincent CS Lee, Xiaodan Liang and Xiaojun Chang*<br>arXiv, 2020.[[Paper]](https://arxiv.org/abs/2108.04097)
+* **Deep Learning for Embodied Visual Navigation Research: A survey**<br>*Fengda Zhu, Yi Zhu, Vincent CS Lee, Xiaodan Liang and Xiaojun Chang*<br>arXiv, 2020. [[Paper]](https://arxiv.org/abs/2108.04097)
 
 * **A Survey of Embodied AI: From Simulators to Research Tasks**<br>*Jiafei Duan , Samson Yu, Hui Li Tan , Hongyuan Zhu, and Cheston Tan*<br>IEEE Transactions on Emerging Topics in Computational Intelligence, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9687596)
 
-* **A Survey of Visual Navigation: From Geometry to Embodied AI**<br>*Tianyao Zhang, Xiaoguang Hu, Jin Xiao, Guofeng Zhang*<br>Engineering Applications of Artificial Intelligence, 2022.[[Paper]](https://www.sciencedirect.com/science/article/pii/S095219762200207X)
+* **A Survey of Visual Navigation: From Geometry to Embodied AI**<br>*Tianyao Zhang, Xiaoguang Hu, Jin Xiao, Guofeng Zhang*<br>Engineering Applications of Artificial Intelligence, 2022. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095219762200207X)
 
 * **Navigating to Objects in the Real World** <br>*Theophile Gervet, Soumith Chintala, Dhruv Batra, Jitendra Malik, Devendra Singh Chaplot* <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2212.00922)
 
@@ -44,7 +44,7 @@ By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatic
   arXiv, 2018. [[Paper]](https://arxiv.org/pdf/1801.02209.pdf) [[Code]](https://github.com/facebookresearch/House3D)
 * **RoboTHOR: An Open Simulation-to-Real Embodied AI Platform** <br>
   *Matt Deitke, Winson Han, Alvaro Herrasti, Aniruddha Kembhavi, Eric Kolve, Roozbeh Mottaghi, Jordi Salvador, Dustin Schwenk, Eli VanderBilt, Matthew Wallingford, Luca Weihs, Mark Yatskar, Ali Farhadi* <br>
-  CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Website]](https://github.com/lil-lab/chalet)
+  CVPR, 2020. [[Paper]](https://arxiv.org/abs/2004.06799) [[Website]](https://ai2thor.allenai.org/robothor)
 * **Gibson Env: Real-World Perception for Embodied Agents** <br>
   *Fei Xia, Amir Zamir, Zhi-Yang He, Alexander Sax, Jitendra Malik, Silvio Savarese* <br>
   CVPR, 2018. [[Paper]](https://arxiv.org/abs/1808.10654) [[Code]](https://github.com/StanfordVL/GibsonEnv) [[Website]](http://gibsonenv.stanford.edu/)
@@ -107,7 +107,7 @@ By Jingwen Sun (sunj39@cardiff.ac.uk), School of Computer Science and Informatic
 - **Visual Representations for Semantic Target Driven Navigation** <br>
   *Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka, Ayzaan Wahid, James Davidson* <br>
   ICRA, 2019. [[Paper]](https://ieeexplore.ieee.org/document/8793493) [[Code]](https://github.com/arsalan-mousavian/Navigation)
-- **[-]Indoor Navigation for Mobile Agents: A Multimodal Vision Fusion Model** <br>*Dongfang Liu, Yiming Cui, Zhiwen Cao, Yingjie Chen* <br>International Joint Conference on Neural Networks, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9207265)
+- **Indoor Navigation for Mobile Agents: A Multimodal Vision Fusion Model** <br>*Dongfang Liu, Yiming Cui, Zhiwen Cao, Yingjie Chen* <br>International Joint Conference on Neural Networks, 2020. [[Paper]](https://ieeexplore.ieee.org/document/9207265)
 - **Situational Fusion of Visual Representation for Visual Navigation** <br>
   *William B. Shen, Danfei Xu, Yuke Zhu, Leonidas J. Guibas, Li Fei-Fei, Silvio Savarese* <br>
   ICCV, 2019. [[Paper]](https://ieeexplore.ieee.org/document/9009052)
