@@ -160,7 +160,7 @@ ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](htt
 
 - **Cognitive Mapping and Planning for Visual Navigation** <br>*Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
 - **Object Goal Navigation using Goal-Oriented Semantic Exploration** <br>
-  *Devendra Singh Chaplot, Dhiraj Gandhi, Abhinav Gupta\*, Ruslan Salakhutdinov\** <br>
+  *Devendra Singh Chaplot, Dhiraj Prakashchand Gandhi, Abhinav Gupta, Russ R. Salakhutdinov* <br>
   NeurIPS, 2020. [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/2c75cf2681788adaca63aa95ae028b22-Abstract.html) [[Website]](https://devendrachaplot.github.io/projects/semantic-exploration) [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation)
 - **Stubborn: A Strong Baseline for Indoor Object Navigation** <br>*Haokuan Luo, Albert Yue, Zhang-Wei Hong, Pulkit Agrawal* <br>IROS, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9981646) [[Code]](https://github.com/Improbable-AI/Stubborn)
 - **A Contextual Bandit Approach for Learning to Plan in Environments with Probabilistic Goal Configurations** <br>*Sohan Rudra, Saksham Goel, Anirban Santara, Claudio Gentile, Laurent Perron, Fei Xia, Vikas,Sindhwani, Carolina Parada*  <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2211.16309)
@@ -169,7 +169,7 @@ ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](htt
 #### Grid Map with Prediction
 
 - **SSCNav Confidence-Aware Semantic Scene Completion for Visual Semantic Navigation** <br>*Yiqing Liang, Boyuan Chen, Shuran Song* <br>ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9560925) [[Website]](https://sscnav.cs.columbia.edu/) [[Code]](https://github.com/columbia-ai-robotics/SSCNav)
-- **Learning to Map for Active Semantic Goal Navigation **<br>*Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis* <br>ICLR, 2022. [[Paper]](https://arxiv.org/abs/2106.15648) [[Code]](https://github.com/ggeorgak11/L2M)
+- **Learning to Map for Active Semantic Goal Navigation**<br>*Georgios Georgakis, Bernadette Bucher, Karl Schmeckpeper, Siddharth Singh, Kostas Daniilidis* <br>ICLR, 2022. [[Paper]](https://arxiv.org/abs/2106.15648) [[Code]](https://github.com/ggeorgak11/L2M)
 - **PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning** <br>*Santhosh Kumar Ramakrishnan, Devendra Singh Chaplot, Ziad Al-Halah, Jitendra Malik, Kristen Grauman* <br>CVPR, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9879980) [[Code]](https://github.com/srama2512/PONI)
 - **Navigating to Objects in Unseen Environments by Distance Prediction** <br>*Minzhao Zhu, Binglei Zhao, Tao Kong* <br>IROS, 2022. [[Paper]](https://ieeexplore.ieee.org/document/9981766) 
 - **Predicting Dense and Context-aware Cost Maps for Semantic Robot Navigation** <br>*Yash Goel, Narunas Vaskevicius, Luigi Palmieri, Nived Chebrolu, Cyrill Stachniss* <br>IROS, 2022. [[Paper]](https://iros2022-pnarude.github.io/pdf/PNARUDE_IROS2022_Yash_Goel_Narunas_Vaskevicius_Predicting_Dense_and_Context-aware_Cost_Maps_for_Semantic_Robot_Navigation.pdf)
