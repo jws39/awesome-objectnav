@@ -153,28 +153,16 @@ ICCV, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710020) [[Code]](htt
 * **A General Purpose Supervisory Signal for Embodied Agents**<br>*Kunal Pratap Singh, Jordi Salvador, Luca Weihs, Aniruddha Kembhavi* <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2212.01186#:~:text=Training%20effective%20embodied%20AI%20agents,sensors%20for%20depth%20and%20localization.)
 * **PIRLNav: Pretraining with Imitation and RL Finetuning for OBJECTNAV**<br>*Ram Ramrakhya, Dhruv Batra, Erik Wijmans, Abhishek Das* <br>arXiv, 2023. [[Paper]](https://arxiv.org/abs/2301.07302) [[Website]](https://ram81.github.io/projects/pirlnav)
 * **Search for or Navigate to Dual Adaptive Thinking for Object Navigation**<br>*Ronghao Dang, Liuyi Wang, Zongtao He, Shuai Su, Chengju Liu, Qijun Chen* <br>arXiv, 2022. [[Paper]](https://arxiv.org/abs/2208.00553)
-
 * **Layout-based Causal Inference for Object Navigation**<br>*Sixian Zhang, Xinhang Song, Weijie Li , Yubing Bai, Xinyao Yu, Shuqiang Jiang* <br>CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Layout-Based_Causal_Inference_for_Object_Navigation_CVPR_2023_paper.pdf)
 * **Skill-based Hierarchical Reinforcement Learning for Target Visual Navigation**<br>*Shuo Wang, Zhihao Wu, Xiaobo Hu, Youfang Lin, and Kai Lv* <br>IEEE Transactions on Multimedia, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10041739)
-
 * **Object-Goal Visual Navigation via Effective Exploration of Relations Among Historical States**<br>*Heming Du, Lincheng Li, Zi Huang, Xin Yu* <br>CVPR, 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf)
-
 * **Multiple Thinking Achieving Meta-Ability Decoupling for Object Navigation**<br>*Ronghao Dang, Lu Chen, Liuyi Wang, Zongtao He, Chengju Liu, Qijun Chen* <br>arXiv, 2023. [[Paper]](https://arxiv.org/abs/2302.01520)
-
 * **Implicit Obstacle Map-driven Indoor Navigation Model for Robust Obstacle Avoidance**<br>*Wei Xie, Haobo Jiang, Shuo Gu, Jin Xie* <br>Proceedings of the 31st ACM International Conference on Multimedia, 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3612100)
-
 * **Skill Fusion in Hybrid Robotic Framework for Visual Object Goal Navigation**<br>*Aleksei Staroverov, Kirill Muravyev, Konstantin Yakovlev and Aleksandr I. Panov* <br>Robotics, 2023. [[Paper]](https://www.mdpi.com/2218-6581/12/4/104)
-
 * **Learning to Terminate in Object Navigation**<br>*Yuhang Song, Anh Nguyen, Chun-Yi Lee* <br>arXiv, 2023. [[Paper]](https://arxiv.org/abs/2309.16164v1)
-
 * **Skill-Dependent Representations for Object Navigation**<br>*Youkai Wang, Yue Hu, Wansen Wu, Ting Liu and Yong Pen*g<br>International Conference on Intelligent Robotics and Control Engineering (IRCE), 2023. [[Paper]](https://ieeexplore.ieee.org/document/10255036)
-
-* **A Few Shot Adaptation of Visual Navigation Skills to New Observations using Meta-Learning**<br>*Qian Luo, Maks Sorokin and Sehoon Ha*<br>ICRA, 2021. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561056)
-
 * **Unsupervised Reinforcement Learning of Transferable Meta-Skills for Embodied Navigation**<br>*Juncheng Li, Xin Wang, Siliang Tang, Haizhou Shi, Fei Wu, Yueting Zhuang and  William Yang Wang* <br>CVPR, 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Unsupervised_Reinforcement_Learning_of_Transferable_Meta-Skills_for_Embodied_Navigation_CVPR_2020_paper.pdf)
-
 * **Multi goals and multi scenes visual mapless navigation in indoor using meta-learning and scene priors**<br>*Fei Li, Chi Guo, Binhan Luo and Huyin Zhang*<br>Neurocomputing, 2021. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231221004707)
-
 * **Context vector-based visual mapless navigation in indoor using hierarchical semantic information and meta-learning**<br>*Fei Li, Chi Guo, Huyin Zhang and Binhan Luo* <br>Complex & Intelligent Systems, 2023. [[Paper]](https://link.springer.com/article/10.1007/s40747-022-00902-7)
 
 
